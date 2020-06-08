@@ -1,0 +1,4 @@
+include ':Bubbles'
+include ':MotionEditor'
+include ':app'
+rootProject.name = "AndroidFeatures"
